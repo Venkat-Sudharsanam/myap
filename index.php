@@ -1,6 +1,6 @@
 <html>
- <body bgcolor="#00db04">
-  <h1> Version 5.0 <h1>
+ <body bgcolor="#DD15F0">
+  <h1> Version Unknown <h1>
   <h2> jenkins did it <h2>
   <h2> Deployed with Capistrano <h2>
     <?php
