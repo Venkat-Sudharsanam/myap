@@ -1,5 +1,5 @@
 <html>
- <body bgcolor="#DD15F0">
+ <body bgcolor="#29FE9E">
   <h1> Version Unknown <h1>
   <h2> jenkins did it <h2>
   <h2> Deployed with Capistrano <h2>
